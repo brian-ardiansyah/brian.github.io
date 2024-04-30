@@ -1,0 +1,17 @@
+style{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body {
+background: rgb(17, 186, 153);
+}
+body{
+    font-family: "arial",sans-serif;
+}
+img{
+    max-width: 150px; 
+    height: auto;
+}
+
